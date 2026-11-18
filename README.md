@@ -8,10 +8,20 @@ It runs on your own computer, and your program's data stays on it.
 | Computer | Status |
 | --- | --- |
 | Windows | Available on the [Releases page](../../releases/latest) |
-| Mac | Coming soon |
+| Mac (Apple Silicon: M1 and later) | Available on the [Releases page](../../releases/latest). Not yet tried on a real Mac, so please report problems |
 
 Start with the **Desktop Chief Guide** (a PDF on the same Releases page). It walks
 through setup, building a schedule and sharing it.
+
+### Installing on a Mac
+
+1. Download `ResidentScheduler-macos-arm64.zip` from the Releases page and extract it.
+2. Move `Resident Scheduler.app` to Applications and open it.
+3. If macOS blocks it the first time, open **System Settings > Privacy & Security** and
+   choose **Open Anyway**. The app is not yet notarized by Apple, so this step is expected.
+4. Your programs are saved outside the app, so a newer release keeps them.
+
+Intel Macs and older macOS versions have not been tried.
 
 ### Installing on Windows
 
