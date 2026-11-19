@@ -38,10 +38,9 @@ Intel Macs and older macOS versions have not been tried.
 
 You can check the download with the `.sha256` file on the Releases page.
 
-## Using the web version
+## Web version
 
-Programs can also use the web version at <https://residentscheduler.mapple.info>.
-Your program's administrator creates your account; you sign in there. Guides, as PDF:
+A web version may be released in the future. Guides for it, as PDF:
 
 - [Chief resident guide (web)](https://residentscheduler.mapple.info/docs/pdf/web-chief-guide.pdf)
 - [Faculty guide](https://residentscheduler.mapple.info/docs/pdf/faculty-guide.pdf)
