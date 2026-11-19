@@ -13,6 +13,9 @@ It runs on your own computer, and your program's data stays on it.
 Start with the **Desktop Chief Guide** (a PDF on the same Releases page). It walks
 through setup, building a schedule and sharing it.
 
+**Documentation:** guides, how-tos and troubleshooting are online at
+<https://residentscheduler.mapple.info/docs/>, also as PDFs.
+
 ### Installing on a Mac
 
 1. Download `ResidentScheduler-macos-arm64.zip` from the Releases page and extract it.
