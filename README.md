@@ -13,6 +13,8 @@ It runs on your own computer, and your program's data stays on it.
 Start with the **Desktop Chief Guide** (a PDF on the same Releases page). It walks
 through setup, building a schedule and sharing it.
 
+**How-to video:** [watch the walkthrough on YouTube](https://youtu.be/hV2lcXdh1uA).
+
 **Documentation:** guides, how-tos and troubleshooting are online at
 <https://residentscheduler.mapple.info/docs/>, also as PDFs.
 
