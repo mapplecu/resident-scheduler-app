@@ -54,3 +54,8 @@ The same material is online in the [extended docs](https://residentscheduler.map
 
 Questions or problems: open an [issue](../../issues) and describe what you were doing.
 Please do not include real resident names or other personal information.
+
+## License
+
+Resident Scheduler is free to use, change and share under the [MIT License](LICENSE).
+It is provided as is, with no warranty. Review every schedule before you publish or rely on it.
